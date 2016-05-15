@@ -253,10 +253,10 @@
 		}
 	}
 
-	/*#bg {
+	#bg {
 		background-size: 2250px auto;
 		width: 6750px;
-	}*/
+	}
 
 /* Overlay */
 
@@ -758,7 +758,7 @@
 		}
 
 		#bg {
-			background-size: 1500px auto;
+			background-size: 1500px 100%;
 			width: 4500px;
 		} }
 
